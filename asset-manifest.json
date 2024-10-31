@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple-Todo-List-/static/css/main.72869564.css",
+    "main.js": "/Simple-Todo-List-/static/js/main.ff46712f.js",
+    "static/media/Orkney-Regular.woff": "/Simple-Todo-List-/static/media/Orkney-Regular.e47e47bd3730c5ac00e3.woff",
+    "static/media/Orkney-Bold.woff": "/Simple-Todo-List-/static/media/Orkney-Bold.60776d78a25e66dc35eb.woff",
+    "static/media/Orkney-Medium.woff": "/Simple-Todo-List-/static/media/Orkney-Medium.185127cdb6adf837d3b9.woff",
+    "static/media/Orkney-Regular.woff2": "/Simple-Todo-List-/static/media/Orkney-Regular.022b77cd9cd6a954336c.woff2",
+    "static/media/Orkney-Bold.woff2": "/Simple-Todo-List-/static/media/Orkney-Bold.4ca8c8047a6cd4e34384.woff2",
+    "static/media/Orkney-Medium.woff2": "/Simple-Todo-List-/static/media/Orkney-Medium.b1b4c53820f211d36042.woff2",
+    "static/media/in-progress.svg": "/Simple-Todo-List-/static/media/in-progress.949e30454dfad4e6f3453f58e55e0830.svg",
+    "static/media/delete.svg": "/Simple-Todo-List-/static/media/delete.a91e0db6e10b6ae008ee920dffe98df8.svg",
+    "static/media/completed.svg": "/Simple-Todo-List-/static/media/completed.cc15ac3a5ffa4d9e0fa2ccf64ed20dd1.svg",
+    "static/media/add.svg": "/Simple-Todo-List-/static/media/add.dabc7213944245280634c4cf1c61d46a.svg",
+    "index.html": "/Simple-Todo-List-/index.html",
+    "static/media/task-completed.svg": "/Simple-Todo-List-/static/media/task-completed.20a69c1cfd9053b8a0c4430d8dc7b234.svg",
+    "static/media/task-in-progress.svg": "/Simple-Todo-List-/static/media/task-in-progress.bd99845e85e83aec0f5882f1ddf5f691.svg",
+    "main.72869564.css.map": "/Simple-Todo-List-/static/css/main.72869564.css.map",
+    "main.ff46712f.js.map": "/Simple-Todo-List-/static/js/main.ff46712f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72869564.css",
+    "static/js/main.ff46712f.js"
+  ]
+}
